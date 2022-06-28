@@ -1,0 +1,9 @@
+
+body {
+    min-height: 100vh;
+}
+
+nav {
+    float:right;
+    margin: 0 auto;
+}
