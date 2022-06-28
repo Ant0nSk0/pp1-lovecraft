@@ -1,9 +1,32 @@
 
 body {
+    background-color: black;
     min-height: 100vh;
+    color:antiquewhite;
+    margin:0 auto;
 }
 
 nav {
     float:right;
     margin: 0 auto;
+}
+
+#about {
+    height: 600px;
+    width: auto;
+    background-color: black;
+    border: 1px solid antiquewhite;
+    
+}
+
+#quotes {
+    height:300px;
+    width:auto;
+    border:1px solid antiquewhite;
+}
+
+footer {
+    height:auto;
+    width:auto;
+    border: 1px solid antiquewhite;
 }
