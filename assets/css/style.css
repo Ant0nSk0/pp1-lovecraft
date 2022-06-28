@@ -31,6 +31,18 @@ nav a:hover {
     text-decoration: underline;
 }
 
+#head-image {
+    background: url("../images/lovecraft-face.png") no-repeat center center;
+    background-size: contain;
+    height:200px;
+    width:auto;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
 #about {
     height: 600px;
     width: auto;
