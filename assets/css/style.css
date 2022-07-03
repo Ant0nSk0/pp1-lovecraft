@@ -2,6 +2,7 @@
 body {
     background-color: black;
     background: url("../images/paper-background2.jpg") no-repeat center center;
+    background-size: cover;
     min-height: 100vh;
     width: 100%;
     color:antiquewhite;
@@ -45,12 +46,18 @@ h3 {
 }
 
 #about {
-    height: 600px;
+    min-height: max-content;
     width: auto;
     background-color: rgba(0, 0, 0, 0.904);
     border: 1px solid antiquewhite;
     margin:30px;
     padding:30px;
+    display: flex;
+}
+
+#lovecraft-photograph {
+    height:auto;
+    max-width:300px; 
 }
 
 #quotes-container {
