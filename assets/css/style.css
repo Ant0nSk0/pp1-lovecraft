@@ -73,6 +73,15 @@ h3 {
     font-style: italic;
 }
 
+#star-symbol-position {
+    text-align: center;
+}
+
+#star-symbol {
+    height: auto;
+    max-width:150px;
+}
+
 #sign-up {
     height:200px;
     width:auto;
