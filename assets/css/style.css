@@ -135,3 +135,18 @@ footer a {
 }
 
 /*END of Footer Section*/
+
+/*START of Works Section*/
+
+#works {
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid antiquewhite;
+    min-height:max-content;
+    width: auto;
+    margin:30px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:30px;
+}
