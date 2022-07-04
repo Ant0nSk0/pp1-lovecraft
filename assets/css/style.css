@@ -159,6 +159,12 @@ footer a {
     border: 1px solid antiquewhite;
 }
 
+#booklist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 #right-box {
     max-width:80%;
     height:auto;
