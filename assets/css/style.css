@@ -99,6 +99,15 @@ h3 {
     max-width: 150px;
 }
 
+#necronomicon-position {
+    text-align: center;
+}
+
+#necronomicon-symbol {
+    height:auto;
+    max-width:150px;
+}
+
 /*END of Quotes Section*/
 
 #sign-up {
