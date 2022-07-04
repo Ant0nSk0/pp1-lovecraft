@@ -111,9 +111,14 @@ h3 {
 
 footer {
     height:auto;
-    width:auto;
-    border: 1px solid antiquewhite;
+    width:100%;
     background-color: rgba(0, 0, 0, 0.904);
-    margin: 0 30px;
     text-align: center;
+    padding: 6px 0;
+}
+
+#arrow-up {
+    color:antiquewhite;
+    text-decoration: none;
+    margin-left:94%;
 }
