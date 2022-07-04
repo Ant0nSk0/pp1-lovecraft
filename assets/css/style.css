@@ -231,4 +231,15 @@ footer a {
     margin: 30px;
     padding: 30px;
     display: flex;
+    gap: 30px;
+    flex-wrap: wrap-reverse;
+}
+
+#biography-text {
+    flex:2 1 300px;
+}
+
+#lovecraft-portrait {
+    height:auto;
+    max-width: 300px;
 }
