@@ -150,3 +150,24 @@ footer a {
     justify-content: center;
     gap:30px;
 }
+
+#left-box {
+    max-width: 80%;
+    height:auto;
+    padding:15px;
+    flex: 2 1 600px;
+}
+
+#right-box {
+    max-width:80%;
+    height:auto;
+    padding:15px;
+    flex: 2 1 600px;
+}
+
+#bottom-box {
+    max-width: 80%;
+    height:auto;
+    padding:15px;
+    flex: 2 1 600px;
+}
