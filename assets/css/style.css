@@ -207,4 +207,15 @@ footer a {
     padding:15px;
     flex: 2 1 600px;
     border:1px solid antiquewhite;
+    text-align: center;
+}
+
+#bottom-box h2 ~ h2 {
+    font-size: 200%;
+}
+
+#audioplayer-position {
+    min-height: max-content;
+    height: auto;
+    margin: 0 auto;
 }
