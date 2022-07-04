@@ -156,13 +156,21 @@ footer a {
     height:auto;
     padding:15px;
     flex: 2 1 600px;
+    border: 1px solid antiquewhite;
 }
 
 #right-box {
     max-width:80%;
     height:auto;
     padding:15px;
+    text-align: center;
     flex: 2 1 600px;
+    border: 1px solid antiquewhite;
+}
+
+#right-box-cthulhu {
+    max-height: 60%;
+    margin:0 0;
 }
 
 #bottom-box {
@@ -170,4 +178,5 @@ footer a {
     height:auto;
     padding:15px;
     flex: 2 1 600px;
+    border:1px solid antiquewhite;
 }
