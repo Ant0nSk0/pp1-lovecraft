@@ -235,15 +235,21 @@ footer a {
     display: flex;
     gap: 30px;
     flex-wrap: wrap-reverse;
+    justify-content: space-around;
 }
 
 #biography-text {
     flex:2 1 300px;
 }
 
+#portrait-position {
+    max-width: 80%;
+    text-align: center;
+}
+
 #lovecraft-portrait {
     height:auto;
-    max-width: 300px;
+    max-width: inherit;
 }
 
 /*END of Biography Section*/
