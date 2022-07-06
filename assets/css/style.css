@@ -28,7 +28,7 @@ nav a {
     text-decoration: none;
     color: antiquewhite;
     font-size: large;
-    padding-left: 10px;
+    padding-left: 15px;
     letter-spacing: 2px;
     text-shadow: 2px 2px black;
 }
@@ -307,7 +307,7 @@ audio {
         padding: 0;
     }
     nav {
-        padding-bottom:30px;
+        padding-bottom:15px;
     }
 }
 
