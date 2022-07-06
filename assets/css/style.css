@@ -292,10 +292,25 @@ audio {
 /*END of Biography Section*/
 /*MEDIA QUERIES*/
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:480px) {
     #introduction, #sign-up {
         border: none;
         margin: 0;
         text-align: center;
+    }
+}
+
+@media screen and (max-width:794px) {
+    #works, #works > div {
+        border: none;
+        margin:0;
+        text-align: center;
+        width:100%;
+    }
+
+    li {
+        list-style: none;
+        margin-right: 20%;
+        line-height: 1.2;
     }
 }
