@@ -121,6 +121,11 @@ nav a:hover {
     max-width:150px;
 }
 
+section h3 {
+    text-align: center;
+    color: black;
+}
+
 /*END of Quotes Section*/
 /*START of Sign Up Section*/
 
