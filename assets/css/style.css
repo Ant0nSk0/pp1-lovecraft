@@ -293,7 +293,7 @@ audio {
 /*MEDIA QUERIES*/
 
 @media screen and (max-width:480px) {
-    #introduction, #sign-up {
+    #introduction, #sign-up, #biography {
         border: none;
         margin: 0;
         text-align: center;
