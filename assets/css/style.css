@@ -8,7 +8,7 @@ body {
     width: 100%;
     color: antiquewhite;
     margin: 0 auto;
-    font-family:'Special Elite', Courier, monospace;
+    font-family: 'Special Elite', Courier, monospace;
 }
 
 h1 {
@@ -30,6 +30,7 @@ nav a {
     font-size: large;
     padding-left: 10px;
     letter-spacing: 2px;
+    text-shadow: 2px 2px black;
 }
 
 nav a:hover {
@@ -299,20 +300,23 @@ audio {
 /*MEDIA QUERIES*/
 
 @media screen and (max-width:480px) {
-    #introduction, #sign-up, #biography {
+    #works>div {
         border: none;
         margin: 0;
         text-align: center;
+        padding: 0;
     }
 }
 
 @media screen and (max-width:794px) {
-    #works, #works > div {
+
+    #works,
+    #introduction,
+    #sign-up,
+    #biography {
         border: none;
-        margin:0;
+        margin: 0;
         text-align: center;
-        width:100%;
-        padding:0;
     }
 
     li {
