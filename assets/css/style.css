@@ -60,7 +60,7 @@ nav a:hover {
 }
 
 #introduction-text {
-    flex:2 1 300px;
+    flex: 2 1 300px;
 }
 
 #photograph-position {
@@ -117,8 +117,8 @@ nav a:hover {
 }
 
 #necronomicon-symbol {
-    height:auto;
-    max-width:150px;
+    height: auto;
+    max-width: 150px;
 }
 
 section h3 {
@@ -130,7 +130,7 @@ section h3 {
 /*START of Sign Up Section*/
 
 #sign-up {
-    min-height:max-content;
+    min-height: max-content;
     width: auto;
     border: 1px solid antiquewhite;
     background-color: rgba(0, 0, 0, 0.9);
@@ -165,7 +165,7 @@ footer {
 footer a {
     color: antiquewhite;
     text-decoration: none;
-    margin:0 60px;
+    margin: 0 60px;
 }
 
 #arrow-up {
@@ -181,20 +181,20 @@ footer a {
 #works {
     background-color: rgba(0, 0, 0, 0.9);
     border: 1px solid antiquewhite;
-    min-height:max-content;
+    min-height: max-content;
     width: auto;
-    margin:30px;
+    margin: 30px;
     padding: 15px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap:30px;
+    gap: 30px;
 }
 
 #left-box {
     max-width: 80%;
-    height:auto;
-    padding:15px;
+    height: auto;
+    padding: 15px;
     flex: 2 1 600px;
     border: 1px solid antiquewhite;
 }
@@ -211,7 +211,7 @@ footer a {
 
 #link a {
     text-decoration: none;
-    color:darkgoldenrod;
+    color: darkgoldenrod;
 }
 
 #link a:hover {
@@ -219,9 +219,9 @@ footer a {
 }
 
 #right-box {
-    max-width:80%;
-    height:auto;
-    padding:15px;
+    max-width: 80%;
+    height: auto;
+    padding: 15px;
     text-align: center;
     flex: 2 1 600px;
     border: 1px solid antiquewhite;
@@ -229,20 +229,20 @@ footer a {
 
 #right-box-cthulhu {
     max-height: 60%;
-    margin:0 0;
+    margin: 0 0;
     max-width: inherit;
 }
 
 #bottom-box {
     max-width: 80%;
-    height:auto;
-    padding:15px;
+    height: auto;
+    padding: 15px;
     flex: 2 1 600px;
-    border:1px solid antiquewhite;
+    border: 1px solid antiquewhite;
     text-align: center;
 }
 
-#bottom-box h2 ~ h2 {
+#bottom-box h2~h2 {
     font-size: 200%;
 }
 
@@ -269,7 +269,7 @@ footer a {
 }
 
 #biography-text {
-    flex:2 1 300px;
+    flex: 2 1 300px;
 }
 
 #portrait-position {
@@ -278,9 +278,18 @@ footer a {
 }
 
 #lovecraft-portrait {
-    height:auto;
+    height: auto;
     max-width: inherit;
     padding: 30px 0;
 }
 
 /*END of Biography Section*/
+/*MEDIA QUERIES*/
+
+@media screen and (max-width:420px) {
+    #introduction, #sign-up {
+        border: none;
+        margin: 0;
+        text-align: center;
+    }
+}
