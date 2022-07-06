@@ -82,7 +82,8 @@ nav a:hover {
     margin-top: 60px;
     text-align: center;
     font-style: italic;
-    font-size: large;
+    font-size: 1.5rem;
+    font-family: 'Jim Nightshade', courier, monospace;
 }
 
 /*END of Introduction Section*/
@@ -103,8 +104,9 @@ nav a:hover {
 .quotes {
     margin: 0 auto;
     height: fit-content;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     font-style: italic;
+    font-family: 'Jim Nightshade', monospace;
 }
 
 #star-symbol-position {
