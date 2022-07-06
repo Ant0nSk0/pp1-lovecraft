@@ -122,9 +122,10 @@ nav a:hover {
 }
 
 /*END of Quotes Section*/
+/*START of Sign Up Section*/
 
 #sign-up {
-    height: 200px;
+    min-height:max-content;
     width: auto;
     border: 1px solid antiquewhite;
     background-color: rgba(0, 0, 0, 0.9);
@@ -133,6 +134,17 @@ nav a:hover {
     text-align: center;
 }
 
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin: 10px;
+}
+
+/*END of Sign Up Section*/
 /*START of Footer Section*/
 
 footer {
