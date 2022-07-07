@@ -23,7 +23,21 @@ In the top right corner we have our navigation section, with links to the three 
 - At the bottom there's another quote followed by a symbol.
 
 ## Testing
-Tested with google lighthouse
+*All tests had a positive outcome unless stated otherwise*  
+- Tested in Chrome with responsive device mode.
+- Tested in Firefox.
+- Tested in Edge.
+- Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.  
+- All links were tested in all browsers mentioned above. All worked as intended.
+- Tested in Google Lighthouse:  
+### Home  
+![Lighthouse Report Index](assets/images/readme-images/deployed-lovecraft-index.PNG)  
+### Works  
+![Lighthouse Report Works](assets/images/readme-images/deployed-lovecraft-works.PNG)  
+### Biography  
+![Lighthouse Report Biography](assets/images/readme-images/deployed-lovecraft-biography.PNG)
+Lighthouse was run in Chrome incognito mode as recommended by various sources such as [Intellitonic](https://intellitonic.com/blog/google-lighthouse/) and [Flexiple](https://flexiple.com/developers/using-google-lighthouse-to-audit-your-web-application/)  
+I did find it a bit inconsistent between audits, especially between using incognito or not. 
 ## Validator Testing
 - HTML - There is no errors going through [W3C HTML Validator](https://validator.w3.org/) 
 - CSS - There is no errors going through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
