@@ -56,6 +56,7 @@ I do not have any unfixed bugs that I am aware of.
 ![Lighthouse Report Works](assets/images/readme-images/deployed-lovecraft-works.PNG)  
 ### Biography  
 ![Lighthouse Report Biography](assets/images/readme-images/deployed-lovecraft-biography.PNG)
+
 Lighthouse was run in Chrome incognito mode as recommended by various sources such as [Intellitonic](https://intellitonic.com/blog/google-lighthouse/) and [Flexiple](https://flexiple.com/developers/using-google-lighthouse-to-audit-your-web-application/)  
 I did find it a bit inconsistent between audits, especially between using incognito or not. 
 ## Validator Testing
