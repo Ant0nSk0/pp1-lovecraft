@@ -59,6 +59,20 @@ Future features might include making more options for audio and text material pr
     - Tested on friends phone (Samsung S6 Edge) with Chrome.  
 - Tested different sizes to make sure the website was responsive and all breakpoints worked as intended as well as being presented correctly. For instance, the 'Works' page lets users with wider screens be presented with both the 'Works of Horror' section and the 'Cthulhu Mythos' section positioned next to each other, while users with narrower screens and tablets get presented with the 'Works of Horror' section first, 'Cthulhu Mythos' second. Mobile users recieve a similar experience with a smoother layout without borders.  
 
+| Feature | Expect | Action | Result |
+|---|---|---|---|
+| Home Navbar link | When clicked the home page will open | Clicked home | Home page opened when clicked |
+| Work Navbar link | When clicked the Works page will open  | Clicked Works | Works page opened when clicked |
+| Biography Navbar link | When clicked the Biography page will open | Clicked Biography | Biography page opened when clicked |
+| Footer Links | When clicked opens links in new tab | Clicked link | Opened link in new tab |
+| Footer Back to Top  | When clicked takes the user back to the top | Clicked link | Went back to top on click |
+| Audioplayer | When clicked starts playing audio | Clicked play on audioplayer | Audioplayer starts playing audio on click |
+| Sign up form | When filled in correctly gives feedback | Filled in name and email and pressed submit | New tab opened with feedback |
+| Introduction section | When viewport is shrinking, picture wraps above the text | Shrinked viewport | Image positioned above text |
+| Works Section | When viewport is shrinking, work section goes above Cthulhu section | Shrinked viewport | Work section went above Cthulhu section |
+| Biography section  | When viewport is shrinking, picture wraps above the text | Shrinked viewport | Image positioned above text |
+|  |  |  |  |
+
 ### Unfixed Bugs  
 I do not have any unfixed bugs that I am aware of.
 
