@@ -31,7 +31,10 @@ In the top left corner we have our header and in the top right corner we have ou
 - The Biography page features a matching structure to the home page, with text about Lovecraft next to a portrait from 1934.  
 ![Lovecraft Biography](assets/images/readme-images/lovecraft-biography.PNG)
 - At the bottom there's another quote followed by a symbol.  
-![Lovecraft Mind Quote](assets/images/readme-images/lovecraft-mind-quote.PNG)
+![Lovecraft Mind Quote](assets/images/readme-images/lovecraft-mind-quote.PNG)  
+
+### Future Features
+Future features might include making more options for audio and text material provided such as having a short story on the page together with the audiobook so that users can read along and choose among stories.
 
 ## Testing
 *All tests had a positive outcome unless stated otherwise*  
@@ -43,6 +46,8 @@ In the top left corner we have our header and in the top right corner we have ou
     - Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.  
 - Tested different sizes to make sure the website was responsive and all breakpoints worked as intended as well as being presented correctly. For instance, the 'Works' page lets users with wider screens be presented with both the 'Works of Horror' section and the 'Cthulhu Mythos' section positioned next to each other, while users with narrower screens and tablets get presented with the 'Works of Horror' section first, 'Cthulhu Mythos' second. Mobile users recieve a similar experience with a smoother layout without borders.  
 
+### Unfixed Bugs  
+I do not have any unfixed bugs that I am aware of.
 
 ## Audit in Google Lighthouse:  
 ### Home  
@@ -101,3 +106,9 @@ Live link can be found here: https://ant0nsk0.github.io/pp1-lovecraft/index.html
 - Background comes from [Pexels](https://www.pexels.com/photo/empty-brown-canvas-235985/)
 
 - Symbols come from pngwing: [1](https://www.pngwing.com/en/free-png-tmtsj) [2](https://www.pngwing.com/en/free-png-ndimc) [3](https://www.pngwing.com/en/free-png-iuxau)
+
+## Acknowledgements
+
+- I'd like to give a huge thank you to my mentor Ronan McClelland for his enormous help and support during this project.  
+
+- Also thanks to Kenan Wright for continuously providing useful information.
