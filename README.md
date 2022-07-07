@@ -1,11 +1,13 @@
 # Lovecraft
-This project is about the life and works of H.P. Lovecraft. It contains useful information for both fans and people new to Lovecraft's works. 
+This project is about the life and works of H.P. Lovecraft. It contains useful information for both fans of and people new to Lovecraft's works. 
 ![Lovecraft Mock-up](assets/images/readme-images/lovecraft-mock-up.PNG)
 ## Features
 In the top left corner we have our header and in the top right corner we have our navigation section, with links to the three pages being Home, Works, and Biography. Centered we have a silhouette of Lovecraft with a subheading.  
+
 ![Lovecraft Header](assets/images/readme-images/lovecraft-header.PNG)
 ### Home 
-- The front page features a short introduction to Lovecraft next to a photograph of him from around 1930. Under the introduction is a famous quote of his that perfectly describes his literature and philosophies.
+- The front page features a short introduction to Lovecraft next to a photograph of him from around 1930. Under the introduction is a famous quote of his that perfectly describes his literature and philosophies.  
+
 ![Lovecraft Introduction](assets/images/readme-images/lovecraft-introduction.PNG)
 - Below we find some quotes about Lovecraft from different authors that he inspired.  
 ![Lovecraft Quotes](assets/images/readme-images/lovecraft-quotes.PNG)
@@ -33,12 +35,16 @@ In the top left corner we have our header and in the top right corner we have ou
 
 ## Testing
 *All tests had a positive outcome unless stated otherwise*  
-- Tested in Chrome with responsive device mode.
-- Tested in Firefox.
-- Tested in Edge.
-- Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.  
-- All links were tested in all browsers mentioned above. All worked as intended.
-- Tested in Google Lighthouse:  
+- Audioplayer and all the links, including the sign-up form, was tested in all the following browsers/devices and worked as intended.  
+
+    - Tested in Chrome with responsive device mode.
+    - Tested in Firefox.
+    - Tested in Edge.
+    - Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.  
+- Tested different sizes to make sure the website was responsive and all breakpoints worked as intended as well as being presented correctly. For instance, the 'Works' page lets users with wider screens be presented with both the 'Works of Horror' section and the 'Cthulhu Mythos' section positioned next to each other, while users with narrower screens and tablets get presented with the 'Works of Horror' section first, 'Cthulhu Mythos' second. Mobile users recieve a similar experience with a smoother layout without borders.  
+
+
+## Audit in Google Lighthouse:  
 ### Home  
 ![Lighthouse Report Index](assets/images/readme-images/deployed-lovecraft-index.PNG)  
 ### Works  
@@ -50,4 +56,17 @@ I did find it a bit inconsistent between audits, especially between using incogn
 ## Validator Testing
 - HTML - There is no errors going through [W3C HTML Validator](https://validator.w3.org/) 
     - I had initially one error/warning because I had used a span instead of div. Simple solution to replace the span with the necessary div.
-- CSS - There is no errors going through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+- CSS - There is no errors going through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)  
+
+## Deployment  
+This project was deployed to GitHub Pages.  
+To do so:  
+1. Go to the repository on GitHub.  
+2. Click on "Settings".  
+3. On this page scroll down to find "Pages" located in the bar to the left.  
+4. Click "Source" and choose "main".  
+5. Click on "Save"
+6. A link will show up, wait for it to load and then click on it to go to the deployed page.  
+Live link can be found here: https://ant0nsk0.github.io/pp1-lovecraft/index.html  
+
+##Credits  
