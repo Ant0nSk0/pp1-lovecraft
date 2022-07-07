@@ -69,4 +69,35 @@ To do so:
 6. A link will show up, wait for it to load and then click on it to go to the deployed page.  
 Live link can be found here: https://ant0nsk0.github.io/pp1-lovecraft/index.html  
 
-##Credits  
+## Credits 
+
+- Learning about grid and flex thanks to my mentor Ronan McClelland, who sent me [this](https://webdesign.tutsplus.com/articles/flexbox-vs-css-grid-which-should-you-use--cms-30184) article and video from Adi Purdila. 
+
+### Contents  
+
+- Introduction text comes from the last page of the Necronomicon Commemorative Edition - it is not made clear who wrote that part but it should be credited to either Stephen Jones or Jeffrey Andrew Weinstock.  
+
+- Biography text comes from [Wikipeda](https://en.wikipedia.org/wiki/H._P._Lovecraft), [Simple Wikipedia](https://simple.wikipedia.org/wiki/H._P._Lovecraft) and [Britannica](https://www.britannica.com/biography/H-P-Lovecraft)  
+
+- Cthulhu Mythos text comes from [Lovecraft Fandom](https://lovecraft.fandom.com/wiki/Cthulhu_Mythos)
+
+- List of works taken from [Simple Wikipedia](https://simple.wikipedia.org/wiki/H._P._Lovecraft)
+
+- Formdump come from Code Institute `<form method="POST" action="https://formdump.codeinstitute.net/">`
+
+- Icons come from [FontAwesome](https://fontawesome.com/)
+
+- Fonts come from [Google Fonts](https://fonts.google.com/)
+    
+
+### Media  
+
+- Audiofile comes from LibriVox via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LibriVox_-_nameless_city_lovecraft_sc.ogg). Read aloud by Scott Carpenter.
+
+- Photos of H.P. Lovecraft and Cthulhu comes from [Wikimedia Commons](https://commons.wikimedia.org/wiki/H._P._Lovecraft)
+
+- Silhouette comes from [Pixabay](https://pixabay.com/vectors/howard-humphrey-lewis-lovecraft-1295254/)
+
+- Background comes from [Pexels](https://www.pexels.com/photo/empty-brown-canvas-235985/)
+
+- Symbols come from pngwing: [1](https://www.pngwing.com/en/free-png-tmtsj) [2](https://www.pngwing.com/en/free-png-ndimc) [3](https://www.pngwing.com/en/free-png-iuxau)
