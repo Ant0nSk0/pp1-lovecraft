@@ -74,8 +74,11 @@ Lighthouse was run in Chrome incognito mode as recommended by various sources su
 I did find it a bit inconsistent between audits, especially between using incognito or not. 
 ## Validator Testing
 - HTML - There is no errors going through [W3C HTML Validator](https://validator.w3.org/) 
+![Index Validated](assets/images/readme-images/lovecraft-index-validated.PNG) ![Works Validated](assets/images/readme-images/lovecraft-works-validated.PNG) ![Biography Validated](assets/images/readme-images/lovecraft-biography-validated.PNG)  
+
     - I had initially one error/warning because I had used a span instead of div. Simple solution to replace the span with the necessary div.
-- CSS - There is no errors going through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)  
+- CSS - There is no errors going through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+![CSS validated](assets/images/readme-images/css-lovecraft-validated.PNG)  
 
 ## Deployment  
 This project was deployed to GitHub Pages.  
