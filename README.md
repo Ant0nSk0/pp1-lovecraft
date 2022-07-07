@@ -5,26 +5,38 @@ This project is about the life and works of H.P. Lovecraft. It contains useful i
 In the top left corner we have our header and in the top right corner we have our navigation section, with links to the three pages being Home, Works, and Biography. Centered we have a silhouette of Lovecraft with a subheading.  
 
 ![Lovecraft Header](assets/images/readme-images/lovecraft-header.PNG)
+
 ### Home 
 - The front page features a short introduction to Lovecraft next to a photograph of him from around 1930. Under the introduction is a famous quote of his that perfectly describes his literature and philosophies.  
 
 ![Lovecraft Introduction](assets/images/readme-images/lovecraft-introduction.PNG)
 - Below we find some quotes about Lovecraft from different authors that he inspired.  
+
 ![Lovecraft Quotes](assets/images/readme-images/lovecraft-quotes.PNG)
 - Also featured here is a form for the user to fill in if they want to sign up to the newsletter.
+
 ![Lovecraft Sign-Up](assets/images/readme-images/lovecraft-sign-up.PNG)
-- At the bottom of the page is our footer with links to Goodreads, LibriVox and Wikipedia. There is also an arrow icon to take the user back to the top of the page.
+
+- At the bottom of the page is our footer with links to Goodreads, LibriVox and Wikipedia. There is also an arrow icon to take the user back to the top of the page.  
+
 ![Lovecraft Footer](assets/images/readme-images/lovecraft-footer.PNG)
+
 ### Works
 - On the Works page the user will first see the Works of Horror section, or if they have a larger viewport, both the works of horror section and the Cthulhu Mythos section will be visible side by side.  
 
 - The Works of Horror section features a short description of his writings followed by a list of his horror fiction stories. At the bottom there's a link to Lovecraft's complete bibliography on Wikipedia, which opens in another tab.  
 ![Lovecraft Works](assets/images/readme-images/lovecraft-works.PNG)
+
 - The Cthulhu Mythos section features a picture of Cthulhu and a description of what the mythos is.  
+
 ![Lovecraft Cthulhu](assets/images/readme-images/lovecraft-cthulhu.PNG) 
+
 - Below these two sections is an audioplayer with an audiobook of The Nameless City - provided by LibriVox, Public Domain, via Wikimedia.  
+
 ![Lovecraft Audiobook](assets/images/readme-images/lovecraft-audiobook.PNG) 
-- At the end of this page is a quote that the user will recognise from the audiobook provided above.  
+
+- At the end of this page is a quote that the user will recognise from the audiobook provided above. 
+
 ![Lovecraft Aeons Quote](assets/images/readme-images/lovecraft-aeons-quote.PNG)
 
 ### Biography
@@ -43,7 +55,8 @@ Future features might include making more options for audio and text material pr
     - Tested in Chrome with responsive device mode.
     - Tested in Firefox.
     - Tested in Edge.
-    - Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.  
+    - Tested on my phone (Samsung A224G) with Chrome and Samsung Internet.
+    - Tested on friends phone (Samsung S6 Edge) with Chrome.  
 - Tested different sizes to make sure the website was responsive and all breakpoints worked as intended as well as being presented correctly. For instance, the 'Works' page lets users with wider screens be presented with both the 'Works of Horror' section and the 'Cthulhu Mythos' section positioned next to each other, while users with narrower screens and tablets get presented with the 'Works of Horror' section first, 'Cthulhu Mythos' second. Mobile users recieve a similar experience with a smoother layout without borders.  
 
 ### Unfixed Bugs  
